@@ -11,7 +11,7 @@ A Twitter bot that indicates the price of the different Dollars in Argentina.
 
 Built using Tweepy, Telebot, Requests, BeautifulSoup, Python and the Twitter API.
 
-## How does it work? ❔
+## How does it work?
 Dollar Price Bot tweets and publicates in telegram the price of the different Dollars in Argentina 4 times per day. The bot scraps the [DolarHoy](https://dolarhoy.com/) page which contains:
 - Dollar Blue
 - Official Dollar
